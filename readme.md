@@ -78,4 +78,4 @@ accordingly, as they are set manually.
     updated
 checking webhook
 new update
-checking pollSCM
+checking pollSCM 
